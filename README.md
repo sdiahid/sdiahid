@@ -30,29 +30,6 @@
 
 ---
 
-## 📊 Estadísticas y lenguajes más usados
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=sdiahid&show_icons=true&count_private=true&hide_border=true&title_color=00BFA6&icon_color=00BFA6&text_color=c9d1d9&bg_color=0a0f1a&locale=es" 
-          alt="Estadísticas de GitHub de sdiahid" 
-        />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdiahid&layout=compact&hide_border=true&title_color=00BFA6&text_color=00E0B8&bg_color=0a0f1a&locale=es" 
-          alt="Lenguajes más usados por sdiahid" 
-        />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <div align="center"> 
   <a href="mailto:sedihij@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-0a0f1a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
