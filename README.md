@@ -24,9 +24,9 @@
 
 ## 🚀 Proyectos destacados
 
-- 🎮 **Clon de Metacritic – React Native**  
-  [Repositorio](https://github.com/sdiahid/metacritics-clon-react-native)  
-  Aplicación móvil que imita la experiencia de Metacritic consumiendo API y mostrando listados y detalles de contenido.
+- 🌴 **Coconut Tropical Theme – Plugin VSCode**  
+  [Repositorio](https://github.com/sdiahid/coconut-tropical-theme)  
+  Plugin de vscode con dos temas personalizados.
 
 ---
 
